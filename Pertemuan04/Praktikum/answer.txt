@@ -1,0 +1,13 @@
+BAGIAN 1	
+14. Mengubah dari protected ke Public, Error muncul karena variabel myType pakai protected, jadi cuma bisa dipakai di dalam kelas turunannya. Karena itu, myType nggak bisa langsung diakses dari luar.
+
+19. Isi myType masih kosong Hasilnya kosong karena myType belum diisi nilai apa pun, jadi ketika dicetak dengan Console.WriteLine(myProduct.MyType);, yang muncul adalah baris kosong. Tetapi untuk di akalin nya bisa memasukan value private string myType = "Book";
+
+24. Yang muncul di layar adalah "DVD" karena kita sudah mengisi myProduct.MyType dengan nilai "DVD" sebelum mencetaknya. Jadi, ketika program dijalankan, nilai "DVD" itulah yang ditampilkan.
+
+BAGIAN 2
+8. Tipe dan judul buku tidak muncul karena nilai type dan title tidak diteruskan ke kelas induk. class Book_714230055 hanya mengatur pageCount, tapi tidak mengisi MyType dan MyTitle di Product_714230055. Dalam OOP, ini disebut constructor chaining—konstruktor kelas turunan harus memanggil konstruktor kelas induk supaya semua data terisi.
+
+12. Output muncul karena kelas Book memanggil konstruktor induknya untuk mengisi myType dan myTitle. Dengan menambahkan : base(type, title) pada konstruktor Book, nilai type dan title diteruskan ke kelas induk. Oleh karena itu, ketika program dijalankan, tipe dan judul buku tampil di layar.
+
+19. Objek product2 dibuat berbeda dari product1 karena di kelas DVD_714230055, kita langsung mengisi nilai MyType di dalam konstruktornya tanpa harus memasukkan parameter type. Jadi, saat membuat product2, kita cukup memberikan title dan duration saja. Sedangkan pada product1, kita harus memasukkan type karena kelas Book_714230055 memanggil konstruktor induk dan butuh parameter type.
