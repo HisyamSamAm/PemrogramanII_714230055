@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PENGUMPULAN TUGAS GITHUB\\PemrogramanII_714230055\\Pertemuan11\\Praktikum\\P11_714230055\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB69875-61B1-454A-A9C3-D36BE7A89323}|P11_714230055\\P11_714230055.csproj|d:\\pengumpulan tugas github\\pemrogramanii_714230055\\pertemuan11\\praktikum\\p11_714230055\\p11_714230055\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB69875-61B1-454A-A9C3-D36BE7A89323}|P11_714230055\\P11_714230055.csproj|solutionrelative:p11_714230055\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB69875-61B1-454A-A9C3-D36BE7A89323}|P11_714230055\\P11_714230055.csproj|D:\\PENGUMPULAN TUGAS GITHUB\\PemrogramanII_714230055\\Pertemuan11\\Praktikum\\P11_714230055\\p11_714230055\\view\\parentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB69875-61B1-454A-A9C3-D36BE7A89323}|P11_714230055\\P11_714230055.csproj|solutionrelative:p11_714230055\\view\\parentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB69875-61B1-454A-A9C3-D36BE7A89323}|P11_714230055\\P11_714230055.csproj|D:\\PENGUMPULAN TUGAS GITHUB\\PemrogramanII_714230055\\Pertemuan11\\Praktikum\\P11_714230055\\p11_714230055\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4CB69875-61B1-454A-A9C3-D36BE7A89323}|P11_714230055\\P11_714230055.csproj|solutionrelative:p11_714230055\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB69875-61B1-454A-A9C3-D36BE7A89323}|P11_714230055\\P11_714230055.csproj|D:\\PENGUMPULAN TUGAS GITHUB\\PemrogramanII_714230055\\Pertemuan11\\Praktikum\\P11_714230055\\p11_714230055\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB69875-61B1-454A-A9C3-D36BE7A89323}|P11_714230055\\P11_714230055.csproj|solutionrelative:p11_714230055\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ParentForm.cs [Design]",
+              "DocumentMoniker": "D:\\PENGUMPULAN TUGAS GITHUB\\PemrogramanII_714230055\\Pertemuan11\\Praktikum\\P11_714230055\\P11_714230055\\view\\ParentForm.cs",
+              "RelativeDocumentMoniker": "P11_714230055\\view\\ParentForm.cs",
+              "ToolTip": "D:\\PENGUMPULAN TUGAS GITHUB\\PemrogramanII_714230055\\Pertemuan11\\Praktikum\\P11_714230055\\P11_714230055\\view\\ParentForm.cs [Design]",
+              "RelativeToolTip": "P11_714230055\\view\\ParentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T16:38:13.99Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParentForm.Designer.cs",
+              "DocumentMoniker": "D:\\PENGUMPULAN TUGAS GITHUB\\PemrogramanII_714230055\\Pertemuan11\\Praktikum\\P11_714230055\\P11_714230055\\view\\ParentForm.Designer.cs",
+              "RelativeDocumentMoniker": "P11_714230055\\view\\ParentForm.Designer.cs",
+              "ToolTip": "D:\\PENGUMPULAN TUGAS GITHUB\\PemrogramanII_714230055\\Pertemuan11\\Praktikum\\P11_714230055\\P11_714230055\\view\\ParentForm.Designer.cs",
+              "RelativeToolTip": "P11_714230055\\view\\ParentForm.Designer.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAUwCcAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T16:38:10.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ParentForm.cs",
+              "DocumentMoniker": "D:\\PENGUMPULAN TUGAS GITHUB\\PemrogramanII_714230055\\Pertemuan11\\Praktikum\\P11_714230055\\P11_714230055\\view\\ParentForm.cs",
+              "RelativeDocumentMoniker": "P11_714230055\\view\\ParentForm.cs",
+              "ToolTip": "D:\\PENGUMPULAN TUGAS GITHUB\\PemrogramanII_714230055\\Pertemuan11\\Praktikum\\P11_714230055\\P11_714230055\\view\\ParentForm.cs",
+              "RelativeToolTip": "P11_714230055\\view\\ParentForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T16:37:45.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PENGUMPULAN TUGAS GITHUB\\PemrogramanII_714230055\\Pertemuan11\\Praktikum\\P11_714230055\\P11_714230055\\Program.cs",
+              "RelativeDocumentMoniker": "P11_714230055\\Program.cs",
+              "ToolTip": "D:\\PENGUMPULAN TUGAS GITHUB\\PemrogramanII_714230055\\Pertemuan11\\Praktikum\\P11_714230055\\P11_714230055\\Program.cs",
+              "RelativeToolTip": "P11_714230055\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T16:35:20.068Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
